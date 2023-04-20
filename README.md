@@ -1,0 +1,2 @@
+# HLA-26650
+LiPo 26650 3.7V 5000mA Battery
